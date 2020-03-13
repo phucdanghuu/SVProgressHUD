@@ -452,6 +452,8 @@ static const CGFloat SVProgressHUDLabelSpacing = 8.0f;
 
 - (void)testFunc {
     BOOL progressUsed = self.imageView.hidden;
+    BOOL progressUsed111 = self.imageView.hidden;
+       
 }
 
 - (void)updateHUDFrame {
